@@ -4,7 +4,7 @@
 <br />
  * 🌱 My major is Computer Engineering, and I’m currently learning AI.
 
-
+<br />
 ### ⚡ Skills
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)]()
 [![Numpy Badge](https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white)]() 
