@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Eun Ji's github stats](https://github-readme-stats.vercel.app/api?username=4dventur3&show_icons=true&theme=dracula)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=4dv3ntu3&show_icons=true&theme=radical)]
 
 ### 📫 Contact me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:maiorem00@gmail.com)](mailto:allyep13.07@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&link=https://www.kaggle.com/hongseyoung)](https://www.kaggle.com/pejepej)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:allyep13.07@gmail.com)]()
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&link=https://www.kaggle.com/pejepej)]()
 
