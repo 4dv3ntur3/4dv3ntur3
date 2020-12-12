@@ -28,14 +28,14 @@ Tensorflow certification
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python, DL, ML, Java, Web, AWS
+- 🌱 I’m currently learning Python, Machine Learning, Deep Learning
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=4dv3ntu3&show_icons=true&theme=radical)]
+![Eun Ji's github stats](https://github-readme-stats.vercel.app/api?username=4dv3ntur3&show_icons=true&theme=radical)
 
 ### 📫 Contact me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:allyep13.07@gmail.com)]()
