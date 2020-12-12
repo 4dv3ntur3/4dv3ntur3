@@ -5,12 +5,13 @@
 
 ### ⚡ Skills
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)]()
-<!--[![C++ Badge](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)]()-->
 [![Numpy Badge](https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white)]() 
 [![Pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)]() 
 [![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)]() 
 [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)]()
 [![scikit-learn Badge](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white)]()
+<!--[![C++ Badge](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)]()-->
+
 
 
 <br />
