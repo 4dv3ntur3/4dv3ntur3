@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Eun Ji's github stats](https://github-readme-stats.vercel.app/api?username=maiorem&show_icons=true&theme=dracula)
+![Eun Ji's github stats](https://github-readme-stats.vercel.app/api?username=4dventur3&show_icons=true&theme=dracula)
 
 ### 📫 Contact me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:maiorem00@gmail.com)](mailto:allyep13.07@gmail.com)
