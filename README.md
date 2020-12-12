@@ -1,5 +1,6 @@
 ### 👋 Hello! Welcome to my Github! 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaiorem%2Fhit-counter&count_bg=%23E58D98&title_bg=%23111010&icon=verizon.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F4dv3ntur3%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+(https://hits.seeyoufarm.com)
 <br />
  * 🌱 My major is Computer Engineering, and I’m currently learning AI!
 
