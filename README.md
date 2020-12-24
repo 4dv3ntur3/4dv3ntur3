@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![Eun Ji's github stats](https://github-readme-stats.vercel.app/api?username=4dv3ntur3&show_icons=true&theme=radical)
 
 ### 📫 Contact me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:allyep13.07@gmail.com)]()
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&link=https://www.kaggle.com/pejepej)]()
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:allyep13.07@gmail.com)](mailto:allyep13.07@gmail.com)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&link=https://www.kaggle.com/pejepej)](https://www.kaggle.com/pejepej)
 
 
