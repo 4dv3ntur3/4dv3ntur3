@@ -6,7 +6,9 @@
 🌱 My major is Computer Engineering, and I’m currently learning AI.
  
  
- 
+
+
+
 <br />
 
 ### ⚡ Skills
