@@ -3,7 +3,7 @@
 
 
 <br />
- * 🌱 My major is Computer Engineering, and I’m currently learning AI.
+🌱 My major is Computer Engineering, and I’m currently learning AI.
  
  
  
